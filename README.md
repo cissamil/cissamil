@@ -15,8 +15,8 @@
 - 🌱 Atualmente estou aprendendo: C#, Java e Angular
 
 ---
-
-p align="center">
+## Contato
+<p align="center">
   <a href="(https://www.linkedin.com/in/clarissa-eri-morita-3ab688238/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
