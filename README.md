@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá 👋, me chamo Clarissa  
+** Analista e desenvolvedora de Sistemas • Apaixonada por aprender coisas novas • Amo aprender tecnologias**
 
-<!--
-**cissamil/cissamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Aqui você encontrará meus projetos, experimentos e estudos em Áreas como C, Java, Estrutura de Dados, Banco de Dados, e muito mais!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim  
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas em andamento pela UFPR
+- 💼 Trabalhando como jovem aprendiz no setor de TI 
+- 🧠 Tenho forte interesse em:  
+  - Estruturas de dados (listas estáticas, encadeadas, duplamente, circular, grafos, árvores)
+  - Desenvolvimento em Java
+  - Banco de dados e BI (SQL, Qlik, análises temporais)  
+  - 🌱 Atualmente aprendendo: C#, Java e Angular
+
+---
+
+## Tech Stack e Ferramentas  
