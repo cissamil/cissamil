@@ -1,5 +1,5 @@
 # Olá 👋, me chamo Clarissa Morita
-** Analista e desenvolvedora de Sistemas • Apaixonada por aprender coisas novas • Amo aprender tecnologias**
+ *Analista e desenvolvedora de Sistemas • Apaixonada por aprender coisas novas • Amo aprender tecnologias*
 
 > Aqui você encontrará meus projetos, experimentos e estudos em Áreas como C, Java, Estrutura de Dados, Banco de Dados, e muito mais!
 
