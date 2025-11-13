@@ -8,9 +8,9 @@
 -  Graduando Análise e Desenvolvimento de Sistemas na UFPR 
 -  Trabalhando como jovem aprendiz no setor de TI em Curitiba/PR
 -  Tenho forte interesse em:
-  - Banco de dados e BI (SQL, Qlik, análises temporais)
-  - Desenvolvimento em Java
-  - Inteligência Artificial
+   - Banco de dados e BI 
+   - Desenvolvimento em Java
+   - Inteligência Artificial, Python
 -  Atualmente estou aprendendo: C#, Java e Angular
 
 ---
