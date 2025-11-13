@@ -1,21 +1,21 @@
-# Olá 👋, me chamo Clarissa Morita
+# Olá 👋, me chamo Clarissa!
 *Analista e desenvolvedora de Sistemas • Apaixonada por tecnologia • Melhorar sempre*
 >Aqui você encontrará meus projetos, experimentos e estudos em áreas como C, Java, Estrutura de Dados, Banco de Dados, e muito mais!
 
 ---
 
-## 🙋‍♀️ Sobre mim
-- 🎓 Graduando Análise e Desenvolvimento de Sistemas na UFPR 
-- 💼 Trabalhando como jovem aprendiz no setor de TI em Curitiba/PR
-- 🧠 Tenho forte interesse em:
+## Sobre mim
+-  Graduando Análise e Desenvolvimento de Sistemas na UFPR 
+-  Trabalhando como jovem aprendiz no setor de TI em Curitiba/PR
+-  Tenho forte interesse em:
   - Banco de dados e BI (SQL, Qlik, análises temporais)
   - Desenvolvimento em Java
   - Inteligência Artificial
-- 🌱 Atualmente estou aprendendo: C#, Java e Angular
+-  Atualmente estou aprendendo: C#, Java e Angular
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cissamil&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </p>
