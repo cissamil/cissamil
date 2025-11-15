@@ -1,6 +1,6 @@
 # Olá 👋, me chamo Clarissa!
 *Analista e desenvolvedora de Sistemas • Apaixonada por tecnologia • Melhorar sempre*
->Aqui você encontrará meus projetos, experimentos e estudos em áreas como C, Java, Estrutura de Dados, Banco de Dados, e muito mais!
+>"If all you have is a hammer, everything seems to be a nail." -Robert Sedgewick
 
 ---
 
