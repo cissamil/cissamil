@@ -6,7 +6,7 @@
 
 ## ✨Sobre mim
 -  Graduando Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR)
--  Trabalhando como jovem aprendiz no setor de TI em Curitiba/PR
+-  Trabalhando na APK Logística como jovem aprendiz no setor de TI em Curitiba/PR
 -  Tenho forte interesse em:
    - Banco de dados e BI
    - Desenvolvimento de Software com Metodologias Ágeis 
