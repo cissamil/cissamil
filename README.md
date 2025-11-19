@@ -17,14 +17,18 @@
 ---
 
 ## 💻 Estatísticas 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cissamil&layout=compact&theme=dark&langs_count=8" alt="Linguagens Mais Usadas" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cissamil&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cissamil&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cissamil&theme=react-dark&hide_border=true" alt="Atividades" />
 </p>
 
 ---
