@@ -8,11 +8,12 @@
 -  Graduando Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR)
 -  Trabalhando na APK Logística como jovem aprendiz no setor de TI em Curitiba/PR
 -  Tenho forte interesse em:
+   - Inteligência Artificial e Python
    - Banco de dados e BI
    - Desenvolvimento de Software com Metodologias Ágeis 
    - Java e Spring Boot
-   - Inteligência Artificial e Python
--  Atualmente estou aprendendo: Java
+  
+-  Atualmente estou aprendendo: Java e IA
 ---
 ## 🛠️Linguagem Mais Usada
 <p align = "center">
