@@ -13,13 +13,17 @@
    - Java e Spring Boot
    - Inteligência Artificial e Python
 -  Atualmente estou aprendendo: Java
-
 ---
+## 🛠️Linguagem Usada
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cissamil&layout=compact&theme=dark&langs_count=8" alt="Linguagens Mais Usadas" width="400" />
+</p>
+
+--- 
 
 ## 💻 Estatísticas 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cissamil&layout=compact&theme=dark&langs_count=8" alt="Linguagens Mais Usadas" width="330" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cissamil&theme=react-dark&hide_border=true" alt="Atividades" width="670" />
 </p>
 
