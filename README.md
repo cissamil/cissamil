@@ -1,4 +1,4 @@
-# Olá 👋, me chamo Clarissa!
+# Olá 👋, me chamo Clarissa :)
 *Analista e desenvolvedora de Sistemas • Apaixonada por tecnologia • Melhorar sempre*
 >"If all you have is a hammer, everything seems to be a nail." -Robert Sedgewick
 
@@ -14,12 +14,6 @@
    - Java e Spring Boot
   
 -  Atualmente estou aprendendo: Java e IA
----
-## 🛠️Linguagem Mais Usada
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cissamil&layout=compact&theme=dark&langs_count=8" alt="Linguagens Mais Usadas" width="400" />
-</p>
-
 --- 
 
 ## 💻 Contribuições
@@ -30,7 +24,7 @@
 
 ---
 
-## 📫 Contato
+## 📫 Entre em Contato!
 <p align="center">
   <a href="https://www.linkedin.com/in/clarissa-eri-morita-3ab688238/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
