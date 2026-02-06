@@ -10,10 +10,9 @@
 -  Tenho forte interesse em:
    - Java 
    - Inteligência Artificial
-   - Desenvolvimento de Software com Metodologias Ágeis 
    - Banco de dados e BI
-  
-  
+   - Desenvolvimento de Software com Metodologias Ágeis 
+   
 -  Atualmente estou aprendendo: Java e IA
 --- 
 
