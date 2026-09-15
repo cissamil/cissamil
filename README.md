@@ -13,7 +13,7 @@
    - Banco de dados e BI
    - Desenvolvimento de Software com Metodologias Ágeis 
    
--  Atualmente estou aprendendo: Flutter e Power BI
+-  Atualmente estou aprendendo: Flutter
 --- 
 
 ## 💻 Contribuições
