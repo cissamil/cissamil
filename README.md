@@ -8,7 +8,8 @@
 -  Graduando Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR)
 -  Trabalhando na APK Logística no setor de TI em Curitiba/PR
 -  Tenho forte interesse em:
-   - Java 
+   - Java
+   - C#
    - Inteligência Artificial
    - Banco de dados e BI
    - Desenvolvimento de Software com Metodologias Ágeis 
