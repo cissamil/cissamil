@@ -19,7 +19,7 @@
 ## 💻 Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cissamil&theme=react-dark&hide_border=true" alt="Atividades" width="670" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cissamil&theme=react&hide_border=true" alt="GitHub Streak" width="670" />
 </p>
 
 ---
