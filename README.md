@@ -4,7 +4,9 @@
 
 > "If the only tool you have is a hammer, everything looks like a nail." - Abraham Maslow
 
----
+
+
+
 
 ## ✨ Sobre mim
 
@@ -31,6 +33,16 @@
 
 ---
 
+## 🌐 Portfólio
+
+Meu currículo online, feito com **Astro**, empacotado com **Docker** e publicado automaticamente no **GitHub Pages** com **GitHub Actions**:
+
+👉 **[cissamil.github.io/ds881-curriculo-GRR20245515](https://cissamil.github.io/ds881-curriculo-GRR20245515/)**
+
+<sub>Código-fonte: [ds881-curriculo-GRR20245515](https://github.com/cissamil/ds881-curriculo-GRR20245515)</sub>
+
+---
+
 ## 💻 Contribuições
 
 <p align="center">
@@ -46,6 +58,9 @@
 ## 📫 Entre em contato!
 
 <p align="center">
+  <a href="https://cissamil.github.io/ds881-curriculo-GRR20245515/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-14B8A6?style=for-the-badge&logo=astro&logoColor=white" alt="Portfólio" />
+  </a>
   <a href="https://www.linkedin.com/in/clarissa-eri-morita-3ab688238/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -53,4 +68,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
