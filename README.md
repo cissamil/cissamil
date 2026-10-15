@@ -1,3 +1,6 @@
+<p align="right">
+  🇧🇷 <b>Português</b> | 🇺🇸 <a href="https://github.com/cissamil/cissamil/blob/main/README.en.md">English</a>
+</p>
 # Olá 👋, me chamo Clarissa!
 
 *Analista e Desenvolvedora de Sistemas • Apaixonada por tecnologia • Sempre buscando evoluir*
