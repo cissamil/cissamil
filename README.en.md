@@ -8,11 +8,6 @@
 
 > "If the only tool you have is a hammer, everything looks like a nail." - Abraham Maslow
 
-<p align="left">
-  <a href="https://cissamil.github.io/ds881-curriculo-GRR20245515/">
-    <img src="https://img.shields.io/badge/Portfolio-Check%20out%20my%20online%20resume-14B8A6?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
 
 ---
 
